@@ -1,0 +1,71 @@
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by BEVY Visual Processor v0.8.4" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+<channel id="24 Kitchen HD.bg">
+<display-name lang="bg">24 Kitchen HD.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/01/26/15/09/03/xl_light_480x270.png"/>
+</channel>
+<channel id="360 TuneBox HD.bg">
+<display-name lang="bg">360 TuneBox HD.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/02/03/14/30/56/xl_light_480x270.png"/>
+</channel>
+<channel id="7/8 TV HD.bg">
+<display-name lang="bg">7/8 TV HD.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/03/05/11/48/44/xl_light_480x270.png"/>
+</channel>
+<channel id="Al Jazeera.bg">
+<display-name lang="bg">Al Jazeera.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2023/01/27/16/59/52/480_c.png"/>
+</channel>
+<channel id="Alfa TV.bg">
+<display-name lang="bg">Alfa TV.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/02/03/15/46/59/xl_light_480x270.png"/>
+</channel>
+<channel id="AMC.bg">
+<display-name lang="bg">AMC.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/01/26/15/48/46/xl_light_480x270.png"/>
+</channel>
+<channel id="Animal Planet HD.bg">
+<display-name lang="bg">Animal Planet HD.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/01/27/14/59/51/xl_light_480x270.png"/>
+</channel>
+<channel id="Antena 3.bg">
+<display-name lang="bg">Antena 3.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/03/05/10/58/34/xl_light_480x270.png"/>
+</channel>
+<channel id="Auto Motor Sport HD.bg">
+<display-name lang="bg">Auto Motor Sport HD.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/03/05/11/46/02/xl_light_480x270.png"/>
+</channel>
+<channel id="B1B Action.bg">
+<display-name lang="bg">B1B Action.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/03/12/16/21/36/xl_light_480x270.png"/>
+</channel>
+<channel id="Baby TV.bg">
+<display-name lang="bg">Baby TV.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/01/27/13/58/53/xl_light_480x270.png"/>
+</channel>
+<channel id="Barely Legal TV.bg">
+<display-name lang="bg">Barely Legal TV.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/03/05/11/04/01/xl_light_480x270.png"/>
+</channel>
+<channel id="BeIn Movies.bg">
+<display-name lang="bg">BeIn Movies.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/03/05/11/04/33/xl_light_480x270.png"/>
+</channel>
+<channel id="BG Music Ch. HD.bg">
+<display-name lang="bg">BG Music Ch. HD.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2023/05/30/14/49/56/download_1_.png"/>
+</channel>
+<channel id="Bloomberg BG.bg">
+<display-name lang="bg">Bloomberg BG.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/03/05/11/48/20/xl_light_480x270_.png"/>
+</channel>
+<channel id="Bloomberg.bg">
+<display-name lang="bg">Bloomberg.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2021/03/05/11/05/44/xl_light_480x270.png"/>
+</channel>
+<channel id="BOX TV HD.bg">
+<display-name lang="bg">BOX TV HD.bg</display-name>
+<icon src="https://images-web.vivacom-be.cdn.united.cloud/2023/05/30/14/52/06/download_1_.png"/>
+</channel>
+
+</tv>
