@@ -1,0 +1,9 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="24 Kitchen HD.bg" tvg-logo="" group-title="Sport" TVG-LANGUAGE="bg", 24 Kitchen
+http://xvip.pro:80/boris2253/BO01208072253/354118
+
+#EXTINF:-1 tvg-id="TV 1 HD.bg" tvg-logo=" " group-title="Sport", TV 1000
+http://xvip.pro:80/boris2253/BO01208072253/354014
