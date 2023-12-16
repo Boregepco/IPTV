@@ -1,11 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="MAX Sport 1" tvg-logo="https://raw.githubusercontent.com/Boregepco/IPTV/main/Logo/MAX Sport 1 HD.bg.png" group-title="Sport", BG: MAX SPORT 1 SD
-http://617019993322300904.ofip231209.xyz:80/play/fe529003/49Xd3nRebJYx/300904.ts
-
-#EXTINF:-1 tvg-id="MAX Sport 1" tvg-logo="https://raw.githubusercontent.com/Boregepco/IPTV/main/Logo/MAX Sport 1 HD.bg.png" group-title="Sport", BG: MAX SPORT 1 FHD
-http://617019993322342244.ofip231209.xyz:80/play/fe529003/49Xd3nRebJYx/342244.ts
-
-#EXTINF:-1 tvg-id="MAX Sport 1" tvg-logo="https://raw.githubusercontent.com/Boregepco/IPTV/main/Logo/MAX Sport 1 HD.bg.png" group-title="Sport", BG: MAX SPORT 1 HD
-http://617019993322365990.ofip231209.xyz:80/play/fe529003/49Xd3nRebJYx/365990.ts
-
+http://617019993322405569.ofip231209.xyz:80/play/fe529003/49Xd3nRebJYx/405569.ts
