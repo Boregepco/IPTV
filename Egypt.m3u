@@ -1,0 +1,286 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 TVG-EPGURL="https://www.bevy.be/bevyfiles/bulgariapremium.xml" tvg-id="Diema Family HD.bg" tvg-logo=" " group-title="Sport", 24 Kitchen
+http://xvip.pro:80/boris2253/BO01208072253/354118
+
+#EXTINF:-1 tvg-id="Diema Sport HD.bg" tvg-logo="https://raw.githubusercontent.com/Boregepco/IPTV/main/Logo/Diema Sport HD.bg.png" group-title="Sport", Diema Sport 1
+http://xvip.pro:80/boris2253/BO01208072253/354125
+
+#EXTINF:-1 tvg-id="Diema Sport 2 HD.bg" tvg-logo=" " group-title="Sport", Diema Sport 2
+http://xvip.pro:80/boris2253/BO01208072253/354124
+
+#EXTINF:-1 tvg-id="Diema Sport 3 HD.bg" tvg-logo=" " group-title="Sport", Diema Sport 3
+http://xvip.pro:80/boris2253/BO01208072253/354123
+
+#EXTINF:-1 tvg-id="MAX Sport 1 HD.bg" tvg-logo=" " group-title="Sport", Max Sport 1
+http://xvip.pro:80/boris2253/BO01208072253/354122
+
+#EXTINF:-1 tvg-id="MAX Sport 2 HD.bg" tvg-logo=" " group-title="Sport", Max Sport 2
+http://xvip.pro:80/boris2253/BO01208072253/354121
+
+#EXTINF:-1 tvg-id="MAX Sport 3 HD.bg" tvg-logo=" " group-title="Sport", Max Sport 3
+http://xvip.pro:80/boris2253/BO01208072253/354120
+
+#EXTINF:-1 tvg-id="MAX Sport 4 HD.bg" tvg-logo=" " group-title="Sport", Max Sport 4
+http://xvip.pro:80/boris2253/BO01208072253/354119
+
+
+#EXTINF:-1 tvg-id="7/8 TV HD.bg" tvg-logo=" " group-title="Sport", 7/8 TV
+http://xvip.pro:80/boris2253/BO01208072253/354117
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Sport", Action box
+http://xvip.pro:80/boris2253/BO01208072253/354116
+
+#EXTINF:-1 tvg-id="Агро ТВ.bg" tvg-logo=" " group-title="Sport", Agro TV
+http://xvip.pro:80/boris2253/BO01208072253/354115
+
+#EXTINF:-1 tvg-id="Alfa TV.bg" tvg-logo=" " group-title="Sport", Alfa TV
+http://xvip.pro:80/boris2253/BO01208072253/354114
+
+#EXTINF:-1 tvg-id="Al Jazeera.bg" tvg-logo=" " group-title="Sport", Aljazeera English
+http://xvip.pro:80/boris2253/BO01208072253/354113
+
+#EXTINF:-1 tvg-id="AMC.bg" tvg-logo=" " group-title="Sport", AMC
+http://xvip.pro:80/boris2253/BO01208072253/354112
+
+#EXTINF:-1 tvg-id="Animal Planet HD.bg" tvg-logo=" " group-title="Sport", ANIMAL PLANET
+http://xvip.pro:80/boris2253/BO01208072253/354111
+
+#EXTINF:-1 tvg-id="Auto Motor Sport HD.bg" tvg-logo=" " group-title="Sport", Auto Motor Sport
+http://xvip.pro:80/boris2253/BO01208072253/354110
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Sport", AXN
+http://xvip.pro:80/boris2253/BO01208072253/354109
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Sport", AXN Black
+http://xvip.pro:80/boris2253/BO01208072253/354108
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Sport", AXN White
+http://xvip.pro:80/boris2253/BO01208072253/354107
+
+#EXTINF:-1 tvg-id="B1B Action.bg" tvg-logo=" " group-title="Sport", B1B Box
+http://xvip.pro:80/boris2253/BO01208072253/354106
+
+#EXTINF:-1 tvg-id="Baby TV.bg" tvg-logo=" " group-title="Sport", Baby TV
+http://xvip.pro:80/boris2253/BO01208072253/354105
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Sport", Balkanika Music TV
+http://xvip.pro:80/boris2253/BO01208072253/354104
+
+#EXTINF:-1 tvg-id="BG Music Ch. HD.bg" tvg-logo=" " group-title="Sport", BG Music Channel
+http://xvip.pro:80/boris2253/BO01208072253/354103
+
+#EXTINF:-1 tvg-id="Bloomberg BG.bg" tvg-logo=" " group-title="Sport", Bloomberg TV
+http://xvip.pro:80/boris2253/BO01208072253/354102
+
+#EXTINF:-1 tvg-id="БНТ 1 HD.bg" tvg-logo=" " group-title="Sport", BNT 1
+http://xvip.pro:80/boris2253/BO01208072253/354101
+
+#EXTINF:-1 tvg-id="БНТ 2 HD.bg" tvg-logo=" " group-title="Sport", BNT 2
+http://xvip.pro:80/boris2253/BO01208072253/354100
+
+#EXTINF:-1 tvg-id="БНТ 3 HD.bg" tvg-logo=" " group-title="Sport", BNT 3
+http://xvip.pro:80/boris2253/BO01208072253/354099
+
+#EXTINF:-1 tvg-id="БНТ 4 HD.bg" tvg-logo=" " group-title="Sport", BNT 4
+http://xvip.pro:80/boris2253/BO01208072253/354098
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Sport", Boomerang
+http://xvip.pro:80/boris2253/BO01208072253/354097
+
+#EXTINF:-1 tvg-id="BOX TV HD.bg" tvg-logo=" " group-title="Sport", Box TV
+http://xvip.pro:80/boris2253/BO01208072253/354096
+
+#EXTINF:-1 tvg-id="bTV HD.bg" tvg-logo=" " group-title="Sport", BTV
+http://xvip.pro:80/boris2253/BO01208072253/354095
+
+#EXTINF:-1 tvg-id="bTV Action HD.bg" tvg-logo=" " group-title="Sport", BTV Action
+http://xvip.pro:80/boris2253/BO01208072253/354094
+
+#EXTINF:-1 tvg-id="bTV Cinema HD.bg" tvg-logo=" " group-title="Sport", BTV Cinema
+http://xvip.pro:80/boris2253/BO01208072253/354093
+
+#EXTINF:-1 tvg-id="bTV Comedy HD.bg" tvg-logo=" " group-title="Sport", BTV Comedy
+http://xvip.pro:80/boris2253/BO01208072253/354092
+
+#EXTINF:-1 tvg-id="bTV Lady HD.bg" tvg-logo=" " group-title="Sport", BTV Lady
+http://xvip.pro:80/boris2253/BO01208072253/354091
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Sport", Bulgaria 24
+http://xvip.pro:80/boris2253/BO01208072253/354090
+
+#EXTINF:-1 tvg-id="BulgariaOnAir HD.bg" tvg-logo=" " group-title="Sport", Bulgaria On Air
+http://xvip.pro:80/boris2253/BO01208072253/354089
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Cartoon Network
+http://xvip.pro:80/boris2253/BO01208072253/354088
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", CBS Reality
+http://xvip.pro:80/boris2253/BO01208072253/354087
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Cine box
+http://xvip.pro:80/boris2253/BO01208072253/354086
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Cinemax
+http://xvip.pro:80/boris2253/BO01208072253/354085
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Cinemax 2
+http://xvip.pro:80/boris2253/BO01208072253/354084
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", City TV
+http://xvip.pro:80/boris2253/BO01208072253/354083
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Code Fashion TV
+http://xvip.pro:80/boris2253/BO01208072253/354082
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Comedy box
+http://xvip.pro:80/boris2253/BO01208072253/354081
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Crime+ Investigation
+http://xvip.pro:80/boris2253/BO01208072253/354080
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Da Vinci Learning
+http://xvip.pro:80/boris2253/BO01208072253/354079
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Diema
+http://xvip.pro:80/boris2253/BO01208072253/354078
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Diema Family
+http://xvip.pro:80/boris2253/BO01208072253/354077
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Discovery Science
+http://xvip.pro:80/boris2253/BO01208072253/354076
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Discovery World
+http://xvip.pro:80/boris2253/BO01208072253/354075
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Disney Channel
+http://xvip.pro:80/boris2253/BO01208072253/354074
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Disney Junior
+http://xvip.pro:80/boris2253/BO01208072253/354073
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", DocuBox
+http://xvip.pro:80/boris2253/BO01208072253/354072
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", DSTV
+http://xvip.pro:80/boris2253/BO01208072253/354071
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Duck TV
+http://xvip.pro:80/boris2253/BO01208072253/354070
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", EKids
+http://xvip.pro:80/boris2253/BO01208072253/354069
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Epic Drama
+http://xvip.pro:80/boris2253/BO01208072253/354068
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", EuroFolk TV
+http://xvip.pro:80/boris2253/BO01208072253/354067
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", EUROSPORT 1
+http://xvip.pro:80/boris2253/BO01208072253/354066
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", EUROSPORT 2
+http://xvip.pro:80/boris2253/BO01208072253/354065
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Evrokom
+http://xvip.pro:80/boris2253/BO01208072253/354064
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Fen Folk
+http://xvip.pro:80/boris2253/BO01208072253/354063
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Fen TV
+http://xvip.pro:80/boris2253/BO01208072253/354062
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", FilmBox Extra
+http://xvip.pro:80/boris2253/BO01208072253/354061
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", FilmBox Stars
+http://xvip.pro:80/boris2253/BO01208072253/354060
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Folklor TV
+http://xvip.pro:80/boris2253/BO01208072253/354059
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Food Network
+http://xvip.pro:80/boris2253/BO01208072253/354058
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", FOX
+http://xvip.pro:80/boris2253/BO01208072253/354057
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Fox Crime
+http://xvip.pro:80/boris2253/BO01208072253/354056
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Fox Life
+http://xvip.pro:80/boris2253/BO01208072253/354055
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", HBO
+http://xvip.pro:80/boris2253/BO01208072253/354054
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", HBO 2
+http://xvip.pro:80/boris2253/BO01208072253/354053
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", HBO 3
+http://xvip.pro:80/boris2253/BO01208072253/354052
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", HGTV
+http://xvip.pro:80/boris2253/BO01208072253/354051
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", History
+http://xvip.pro:80/boris2253/BO01208072253/354050
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Hit Mix
+http://xvip.pro:80/boris2253/BO01208072253/354049
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Hobby Lov
+http://xvip.pro:80/boris2253/BO01208072253/354048
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Investigation Discovery
+http://xvip.pro:80/boris2253/BO01208072253/354047
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", JimJam
+http://xvip.pro:80/boris2253/BO01208072253/354046
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Kanal 0
+http://xvip.pro:80/boris2253/BO01208072253/354045
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Kino Nova
+http://xvip.pro:80/boris2253/BO01208072253/354044
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Light Channel
+http://xvip.pro:80/boris2253/BO01208072253/354043
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Magic TV
+http://xvip.pro:80/boris2253/BO01208072253/354042
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Motorvision
+http://xvip.pro:80/boris2253/BO01208072253/354041
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Movie Star
+http://xvip.pro:80/boris2253/BO01208072253/354040
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", MTV 00s
+http://xvip.pro:80/boris2253/BO01208072253/354039
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", MTV 80s
+http://xvip.pro:80/boris2253/BO01208072253/354038
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", NAT GEO
+http://xvip.pro:80/boris2253/BO01208072253/354037
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", NAT GEO Wild
+http://xvip.pro:80/boris2253/BO01208072253/354036
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Nick Jr
+http://xvip.pro:80/boris2253/BO01208072253/354035
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", nickelodeon
+http://xvip.pro:80/boris2253/BO01208072253/354034
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", NickToons
+http://xvip.pro:80/boris2253/BO01208072253/354033
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Nova News
+http://xvip.pro:80/boris2253/BO01208072253/354032
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Nova Sport
+http://xvip.pro:80/boris2253/BO01208072253/354031
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Nova TV
+http://xvip.pro:80/boris2253/BO01208072253/354030
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Okhota i Rybalka
+http://xvip.pro:80/boris2253/BO01208072253/354029
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Planeta Folk
+http://xvip.pro:80/boris2253/BO01208072253/354028
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Planeta TV
+http://xvip.pro:80/boris2253/BO01208072253/354027
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Plovdivska Pravoslavna TV
+http://xvip.pro:80/boris2253/BO01208072253/354026
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Ring
+http://xvip.pro:80/boris2253/BO01208072253/354025
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Rodina
+http://xvip.pro:80/boris2253/BO01208072253/354024
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Roma TV
+http://xvip.pro:80/boris2253/BO01208072253/354023
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", SKAT
+http://xvip.pro:80/boris2253/BO01208072253/354022
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Sportal TV
+http://xvip.pro:80/boris2253/BO01208072253/354021
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", The Voice TV
+http://xvip.pro:80/boris2253/BO01208072253/354020
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Tiankov Folk
+http://xvip.pro:80/boris2253/BO01208072253/354019
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Tiankov Orient Folk
+http://xvip.pro:80/boris2253/BO01208072253/354018
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", TLC
+http://xvip.pro:80/boris2253/BO01208072253/354017
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Travel TV
+http://xvip.pro:80/boris2253/BO01208072253/354016
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", TV 1
+http://xvip.pro:80/boris2253/BO01208072253/354015
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", TV 1000
+http://xvip.pro:80/boris2253/BO01208072253/354014
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", TV Evropa
+http://xvip.pro:80/boris2253/BO01208072253/354013
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", TVRus Plus
+http://xvip.pro:80/boris2253/BO01208072253/354012
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", TVT
+http://xvip.pro:80/boris2253/BO01208072253/354011
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", V2Beat TV
+http://xvip.pro:80/boris2253/BO01208072253/354010
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Viasat Explore
+http://xvip.pro:80/boris2253/BO01208072253/354009
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Viasat History
+http://xvip.pro:80/boris2253/BO01208072253/354008
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Viasat Nature
+http://xvip.pro:80/boris2253/BO01208072253/354007
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", Vivacom Arena
+http://xvip.pro:80/boris2253/BO01208072253/354006
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", VTK
+http://xvip.pro:80/boris2253/BO01208072253/354005
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", WNess TV
+http://xvip.pro:80/boris2253/BO01208072253/354004
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Sport", World Fashion Channel
+http://xvip.pro:80/boris2253/BO01208072253/354003
